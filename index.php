@@ -1,3 +1,2 @@
-<? php 
-	die("php");
-	exit();
+<?php
+	echo "HELLO WORLD";
