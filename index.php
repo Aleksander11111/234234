@@ -1,3 +1,3 @@
 <? php 
-	echo "php";
+	die("php");
 	exit();
