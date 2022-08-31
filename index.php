@@ -5,4 +5,5 @@
   $mon = strftime('%B');
   $mon = iconv("windows-1251", "UTF-8", $mon);
   $year = strftime('%Y');
-  echo 'Сегодня ' , $day, ' число,', $mon, ' месяц,', $year, ' год.';
+
+  echo "Сегодня  $day  число, $mon  месяц, $year  год.";
